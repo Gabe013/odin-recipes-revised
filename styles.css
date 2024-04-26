@@ -1,13 +1,21 @@
 body {
     background-color: blanchedalmond;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: #3c317e;
+    font-family: serif;
+    color: #0011ff;
 }
 
 .recipe-body {
-    color: #000000;
+    color: #080808;
 }
 
-.recipe-name {
+.recipe-body h1 {
     color: #0000ff;
+}
+
+.recipe-body h2 {
+    color: #2403b8;
+}
+
+.recipe-body h3 {
+    color: #05029ebb;
 }
