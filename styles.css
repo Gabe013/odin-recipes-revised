@@ -4,6 +4,11 @@ body {
     color: #0011ff;
 }
 
+h1 {
+    margin-top: -7px;
+    margin-bottom: -25px;
+}
+
 .recipe-body {
     color: #080808;
 }
@@ -18,4 +23,17 @@ body {
 
 .recipe-body h3 {
     color: #05029ebb;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    margin-bottom: -1px;
+}
+
+
+#frame {
+    border: 0.5em solid darkorchid;
+    text-align: center;
+    border-width: auto;
 }
